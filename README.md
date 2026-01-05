@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,grafana,prometheus,java,maven,py,nodejs,html,vscode,git,github,gitlab,nginx,dynamodb,mongodb,mysql,postgres,bash,powershell,linux,redhat,debian,ubuntu,windows,gcp&perline=9)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,grafana,prometheus,java,maven,py,nodejs,html,vscode,git,github,gitlab,nginx,dynamodb,mongodb,mysql,postgres,bash,powershell,linux,redhat,debian,ubuntu,windows,gcp" />
+  </a>
+</p>
+
 <!--
 **ucheor/ucheor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
