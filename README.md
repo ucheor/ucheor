@@ -12,7 +12,7 @@
 
 ⚡CI/CD Pipeline Development: Designing and maintaining end-to-end pipelines that accelerate software delivery, integrate security checks, shift-left testing, and provide continuous feedback. [Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AWS CodePipeline]
 
-⚡Kubernetes, Microservices & Serverless: Deploying and managing containerized microservices and serverless workloads on Kubernetes and cloud platforms, enabling scalability, resilience, and collaboration. [Docker, EKS, ECS, Helm, ArgoCD, Lambda]
+⚡Kubernetes, Microservices & Serverless: Deploying and managing containerized microservices and serverless workloads on Kubernetes and cloud platforms, enabling scalability, resilience, and high availability. [Docker, EKS, ECS, Helm, ArgoCD, Lambda]
 
 ⚡Security & DevSecOps: Integrating security best practices into pipelines, infrastructure, and runtime environments to ensure robust, compliant, and secure operations. [SonarQube, Trivy, OWASP]
 
