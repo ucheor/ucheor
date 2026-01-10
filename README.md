@@ -1,4 +1,4 @@
-## Hi, there! 👋 These are some of my favorite DevOps tools - Skills Stack
+## Hi, there! 👋 Here are some of my favorite DevOps tools - Skills Stack
 
 
 <p align="center">
