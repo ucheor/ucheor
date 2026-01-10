@@ -8,17 +8,17 @@
 </p>
 
 ## Passionate About:
-- ⚡Infrastructure as Code & Automation: Implementing Terraform and Ansible to automate provisioning, configuration, and deployments, enabling consistent, repeatable, and reliable infrastructure.
+⚡Infrastructure as Code & Automation: Implementing Terraform and Ansible to automate provisioning, configuration, and deployments, enabling consistent, repeatable, and reliable infrastructure.
 
-- ⚡CI/CD Pipeline Development: Designing and maintaining end-to-end pipelines that accelerate software delivery, integrate security checks, shift-left testing, and provide continuous feedback. [Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AWS CodePipeline]
+⚡CI/CD Pipeline Development: Designing and maintaining end-to-end pipelines that accelerate software delivery, integrate security checks, shift-left testing, and provide continuous feedback. [Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AWS CodePipeline]
 
-- ⚡Kubernetes, Microservices & Serverless: Deploying and managing containerized microservices and serverless workloads on Kubernetes and cloud platforms, enabling scalability, resilience, and collaboration. [Docker, EKS, ECS, Helm, ArgoCD, Lambda]
+⚡Kubernetes, Microservices & Serverless: Deploying and managing containerized microservices and serverless workloads on Kubernetes and cloud platforms, enabling scalability, resilience, and collaboration. [Docker, EKS, ECS, Helm, ArgoCD, Lambda]
 
-- ⚡Security & DevSecOps: Integrating security best practices into pipelines, infrastructure, and runtime environments to ensure robust, compliant, and secure operations. [SonarQube, Trivy, OWASP]
+⚡Security & DevSecOps: Integrating security best practices into pipelines, infrastructure, and runtime environments to ensure robust, compliant, and secure operations. [SonarQube, Trivy, OWASP]
 
-- ⚡Monitoring, Observability & Reliability: Implementing comprehensive observability, logging, and alerting solutions to support proactive incident management and continuous improvement. [Prometheus, Grafana, DataDog, CloudWatch, ELK]
+⚡Monitoring, Observability & Reliability: Implementing comprehensive observability, logging, and alerting solutions to support proactive incident management and continuous improvement. [Prometheus, Grafana, DataDog, CloudWatch, ELK]
 
-- ⚡Cloud Services, Multi-Cloud & FinOps: Building efficient, cost-optimized, and highly available cloud environments while leveraging FinOps practices to monitor and optimize spend.
+⚡Cloud Services, Multi-Cloud & FinOps: Building efficient, cost-optimized, and highly available cloud environments while leveraging FinOps practices to monitor and optimize spend.
 
 <!--
 **ucheor/ucheor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
