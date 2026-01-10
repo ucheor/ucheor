@@ -1,5 +1,3 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello! Here are some of my favorite DevOps tools - Skills Stack" src="./assets/gh-readme-header.png" /></a></p>
-
 ## Hi, there! 👋 Here are some of my favorite DevOps tools - Skills Stack
 
 
