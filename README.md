@@ -10,13 +10,15 @@
 ## Passionate About:
 - ⚡Infrastructure as Code & Automation: Implementing Terraform and Ansible to automate provisioning, configuration, and deployments, enabling consistent, repeatable, and reliable infrastructure.
 
-- ⚡CI/CD Pipeline Development: Designing and maintaining end-to-end CI/CD pipelines that accelerate software delivery, reduce manual intervention, and support shift-left testing, security best practices and continuous feedback. [Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AWS CodePipeline]
+- ⚡CI/CD Pipeline Development: Designing and maintaining end-to-end pipelines that accelerate software delivery, integrate security checks, shift-left testing, and provide continuous feedback. [Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AWS CodePipeline]
 
-- ⚡Kubernetes & Microservices: Deploy and manage containerized microservices on Kubernetes clusters, promoting scalability, resilience, and collaborative DevOps workflows between development and operations teams.
+- ⚡Kubernetes, Microservices & Serverless: Deploying and managing containerized microservices and serverless workloads on Kubernetes and cloud platforms, enabling scalability, resilience, and collaboration. [Docker, EKS, ECS, Helm, ArgoCD, Lambda]
 
-- ⚡Cloud Services & Multi-Cloud Operations: Leverage cloud platforms to build efficient, cost-optimized, and highly available environments, integrating monitoring and alerting to support proactive incident management.
+- ⚡Security & DevSecOps: Integrating security best practices into pipelines, infrastructure, and runtime environments to ensure robust, compliant, and secure operations. [SonarQube, Trivy, OWASP]
 
-- ⚡DevOps Culture & Collaboration: Foster a culture of automation, collaboration, and continuous improvement by integrating security (DevSecOps), observability, and best practices into development pipelines.
+- ⚡Monitoring, Observability & Reliability: Implementing comprehensive observability, logging, and alerting solutions to support proactive incident management and continuous improvement. [Prometheus, Grafana, CloudWatch, ELK]
+
+- ⚡Cloud Services, Multi-Cloud & FinOps: Building efficient, cost-optimized, and highly available cloud environments while leveraging FinOps practices to monitor and optimize spend.
 
 <!--
 **ucheor/ucheor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
