@@ -8,9 +8,9 @@
 </p>
 
 ## Passionate About:
-- ⚡Infrastructure as Code & Automation: Implement Terraform and Ansible to automate provisioning, configuration, and deployments, enabling consistent, repeatable, and reliable infrastructure.
+- ⚡Infrastructure as Code & Automation: Implementing Terraform and Ansible to automate provisioning, configuration, and deployments, enabling consistent, repeatable, and reliable infrastructure.
 
-- ⚡CI/CD Pipeline Development: Design and maintain end-to-end CI/CD pipelines that accelerate software delivery, reduce manual intervention, and support shift-left testing and continuous feedback.
+- ⚡CI/CD Pipeline Development: Designing and maintaining end-to-end CI/CD pipelines that accelerate software delivery, reduce manual intervention, and support shift-left testing, security best practices and continuous feedback. [Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AWS CodePipeline]
 
 - ⚡Kubernetes & Microservices: Deploy and manage containerized microservices on Kubernetes clusters, promoting scalability, resilience, and collaborative DevOps workflows between development and operations teams.
 
