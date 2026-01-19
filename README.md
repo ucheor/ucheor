@@ -20,6 +20,14 @@
 
 ⚡Cloud Services, Multi-Cloud & FinOps: Building efficient, cost-optimized, and highly available cloud environments while leveraging FinOps practices to monitor and optimize spend.
 
+---
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Automation+Process+Improvement;Infrastructure+As+Code+(Terraform);CI/CD+Jenkins+GitHub+Actions+Azure+DevOps;Monitoring+and+Observability" alt="Typing SVG" />
+</div>
+---
+
 <!--
 **ucheor/ucheor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
