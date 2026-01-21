@@ -1,6 +1,5 @@
 ## Hi, there! 👋 Here are some of my favorite DevOps tools - Skills Stack
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,prometheus,grafana,java,maven,py,nodejs,html,vscode,git,github,gitlab,nginx,dynamodb,mysql,bash,powershell,linux,redhat,debian,ubuntu,windows,gcp" />
