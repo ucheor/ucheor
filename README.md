@@ -15,7 +15,7 @@
 
 ⚡Security & DevSecOps: Integrating security best practices into pipelines, infrastructure, and runtime environments to ensure robust, compliant, and secure operations. [SonarQube, Trivy, OWASP]
 
-⚡Monitoring, Observability & Reliability: Implementing comprehensive observability, logging, and alerting solutions to support proactive incident management and continuous improvement. [Prometheus, Grafana, DataDog, CloudWatch, ELK Stack]
+⚡Monitoring, Observability & Reliability: Implementing comprehensive observability, logging, and alerting solutions to support proactive incident management and continuous improvement. [Prometheus, Grafana, DataDog, CloudWatch, ELK Stack, SRE]
 
 ⚡Cloud Services, Multi-Cloud & FinOps: Building efficient, cost-optimized, and highly available cloud environments while leveraging FinOps practices to monitor and optimize spend.
 ##
